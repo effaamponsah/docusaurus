@@ -250,6 +250,9 @@ module.exports = [
     image: '/img/users/libra.png',
     infoLink: 'https://developers.libra.org',
     fbOpenSource: true,
+    image: '/img/users/libra.svg',
+    infoLink: 'https://developers.libra.org',
+    fbOpenSource: false,
     pinned: true,
   },
   {
@@ -341,6 +344,13 @@ module.exports = [
     caption: 'Plus (ThinkSNS+)',
     image: '/img/users/plus.png',
     infoLink: 'https://slimkit.github.io',
+    fbOpenSource: false,
+    pinned: false,
+  },
+  {
+    caption: 'Paynow',
+    image: '/img/users/paynow.svg',
+    infoLink: 'https://developers.paynow.co.zw/',
     fbOpenSource: false,
     pinned: false,
   },
